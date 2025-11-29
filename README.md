@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OxilonX
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning HTML and CSS and Js
+- 🌱 I learned React and I'm currently lerning python and flask
 - 📫 My email : boabmeuni01@gmail.com
 - 😄 Pronouns: he/him
