@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OxilonX
 - 👀 I’m interested in WebDevelopment
-- 🌱 I learned React and I'm currently lerning python and flask
+- 🌱 Technical Stack: ReactJS, TailwindCSS, NodeJS, ExpressJS, PostgreSQL. Currently learning NextJS 
 - 📫 My email : boabmeuni01@gmail.com
 - 😄 Pronouns: he/him
