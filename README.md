@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OxilonX
 - 👀 I’m interested in WebDevelopment
-- 🌱 Technical Stack: ReactJS, TailwindCSS, NodeJS, ExpressJS, PostgreSQL,jwtAuth,typescript and I'm Currently learning NextJS 
+- 🌱 Technical Stack: ReactJS, TailwindCSS, NodeJS, ExpressJS, PostgreSQL, JwtAuth, Better Auth, typescript and NextJS 
 - 📫 My email : boabmeuni01@gmail.com
 - 😄 Pronouns: he/him
