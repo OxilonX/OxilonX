@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boulmehad Abderrahmane aka. @OxilonX
 - 👀 I’m interested in WebDevelopment
-- 🌱 Technical Stack: ReactJS, TailwindCSS, NodeJS, ExpressJS, PostgreSQL, JwtAuth, Better Auth, typescript and NextJS 
+- 🌱 Technical Stack: ReactJS, TailwindCSS, NodeJS, ExpressJS, PostgreSQL, Prisma, JwtAuth, Better Auth, typescript and NextJS 
 - 📫 My email : boabmeuni01@gmail.com
 - 😄 Pronouns: he/him
